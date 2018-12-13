@@ -1,0 +1,7 @@
+C:\Multimedia\Project\PriceProviders\Providers\bin\Debug\Providers.dll
+C:\Multimedia\Project\PriceProviders\Providers\bin\Debug\Providers.pdb
+C:\Multimedia\Project\PriceProviders\Providers\bin\Debug\Newtonsoft.Json.dll
+C:\Multimedia\Project\PriceProviders\Providers\bin\Debug\Newtonsoft.Json.xml
+C:\Multimedia\Project\PriceProviders\Providers\obj\Debug\Providers.csprojResolveAssemblyReference.cache
+C:\Multimedia\Project\PriceProviders\Providers\obj\Debug\Providers.dll
+C:\Multimedia\Project\PriceProviders\Providers\obj\Debug\Providers.pdb
